@@ -1,2 +1,3 @@
 # homebrew-cask
-@daniyalmaster693's Hombrew Casks
+
+@daniyalmaster693's Homebrew Casks
