@@ -1,6 +1,6 @@
 cask "supercorners" do
   version "1.3.1"
-  sha256 "sha256:c47aba923f67c96b567e42dec1c77b2fe5b65da30918cfc4aacab958478e75f9"
+  sha256 "c47aba923f67c96b567e42dec1c77b2fe5b65da30918cfc4aacab958478e75f9"
 
   url "https://github.com/daniyalmaster693/SuperCorners/releases/download/1.3.1/SuperCorners.zip"
   name "SuperCorners"
