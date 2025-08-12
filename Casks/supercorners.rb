@@ -5,7 +5,7 @@ cask "supercorners" do
   url "https://github.com/daniyalmaster693/SuperCorners/releases/download/1.3.1/SuperCorners.zip"
   name "SuperCorners"
   desc "Supercharge your Mac's Corners"
-  homepage "https://github.com/daniyalmaster693/SuperCorners"
+  homepage "https://supercorners.vercel.app/"
 
   livecheck do
     url "https://daniyalmaster693.github.io/SuperCorners/appcast.xml"
