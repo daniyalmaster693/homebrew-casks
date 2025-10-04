@@ -1,8 +1,8 @@
 cask "menuscores" do
-  version "2.1.0"
-  sha256 "8acbb8d66c1f3b9833af1fc852c59be0d61d5da8954db4296e57d3d88e279e12"
+  version "2.1.1"
+  sha256 "e854bb83578c885675ec2cd5af5d6eb1598e045e0f9891ebe1aabbbe3be9aa63"
 
-  url "https://github.com/daniyalmaster693/MenuScores/releases/download/2.1.0/MenuScores.zip"
+  url "https://github.com/daniyalmaster693/MenuScores/releases/download/2.1.1/MenuScores.zip"
   name "MenuScores"
   desc "Live Scores - Right From Your Notch"
   homepage "https://menuscores.vercel.app/"
