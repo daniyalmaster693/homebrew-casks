@@ -1,6 +1,6 @@
 cask "menuscores" do
   version "2.1.3"
-  sha256 "9a3032e5517907a3c8c9bc3c2e07d9fb614d6f96341562d2a46b022177b263d2"
+  sha256 "7eb67de00ffd9258049aef0b40f91b1205632869823df6f1d4bf183a5c7a3471"
 
   url "https://github.com/daniyalmaster693/MenuScores/releases/download/2.1.3/MenuScores.zip"
   name "MenuScores"
