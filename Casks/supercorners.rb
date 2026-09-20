@@ -1,8 +1,8 @@
 cask "supercorners" do
-  version "2.0.0"
-  sha256 "d07767173b17a4371ffb3bb2d4c0b315763092afa83c599df443cf6c4d8eb8cc"
+  version "2.0.1"
+  sha256 "6c248e88a9b5213c3ded2bbff2489c0192ba77b9608e1933c2326ef06d0cab71"
 
-  url "https://github.com/daniyalmaster693/SuperCorners/releases/download/2.0.0/SuperCorners.dmg"
+  url "https://github.com/daniyalmaster693/SuperCorners/releases/download/2.0.1/SuperCorners.dmg"
   name "SuperCorners"
   desc "Supercharge your Mac's Corners"
   homepage "https://supercorners.vercel.app/"
